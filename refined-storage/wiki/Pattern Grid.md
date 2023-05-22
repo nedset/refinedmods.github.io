@@ -13,7 +13,7 @@ The allowed tags system in Refined Storage allows the player to decide which ite
 
 These tags are retrieved from [Minecraft's tag system](https://minecraft.gamepedia.com/Tag). You can specify the allowed tags in the Pattern Grid.
 
-To define valid alternatives for an item or fluid, use CTRL + click on the input slot and specify the allowed tags that can be used during autocrafting. Items or fluids from that tag are then marked as valid alternatives if the original item or fluid can't be found in the storage network.
+To define valid alternatives for an item or fluid, use CTRL + click on the input slot and specify the allowed tags that can be used during autocrafting. Items or fluids from that tag are then marked as valid alternatives if the original item or fluid can't be found in the storage networks.CTRL + SHIFT para abrir a janela de criação. 
 
 You can also define valid alternatives by clicking on the item or fluid and then clicking on "Alternatives".
 
